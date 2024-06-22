@@ -1,0 +1,135 @@
+body {
+  z-index: 2005;
+  color: white;
+  background-image: url('gremlin.gif');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  opacity: 1;
+}
+
+@font-face {
+  font-family: p;
+  src: url('https://raw.githubusercontent.com/scaryskeeletons/based/main/static/MiriamMonoCLM-Book.ttf');
+}
+
+h1 {
+  font-family: Impact;
+  font-size: 100px;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h1 > span {
+  color: red;
+}
+
+h2 {
+  font-family: h1;
+  font-size: 35px;
+  text-align: center;
+}
+
+p {
+  font-family: p;
+  font-size: 22px;
+  text-align: center;
+  margin: 0px 0; /* Adjust margins */
+  padding: 0; /* Remove default padding */
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.section {
+  border-radius: 25px;
+  text-align: center;
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #342c31;
+}
+
+.social-links {
+  top: 10px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 50;
+}
+
+.social-link img {
+  max-width: 130px;
+}
+
+@media (max-width: 768px) {
+  h1 {
+      font-size: 50px;
+  }
+
+  h2 {
+      font-size: 24px;
+  }
+
+  p {
+      font-size: 16px;
+  }
+
+  .section, #about {
+      width: 95%;
+  }
+
+  .section button {
+      width: 100%;
+  }
+
+  .social-link img {
+      max-width: 80px;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+      font-size: 32px;
+  }
+
+  h2 {
+      font-size: 20px;
+  }
+
+  p {
+      font-size: 14px;
+  }
+
+  .section, #about {
+      width: 95%;
+      padding: 10px;
+      margin: 5px;
+  }
+
+  .section button {
+      width: 100%;
+  }
+
+  .form-group-container {
+      display: block;
+  }
+
+  .social-link img {
+      max-width: 100px;
+  }
+
+  img {
+      max-width: 300px;
+  }
+}
