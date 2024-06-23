@@ -1,7 +1,7 @@
 body {
   z-index: 2005;
   color: white;
-  background-image: url('gremlin.gif');
+  background-image: url('https://raw.githubusercontent.com/scaryskeeletons/gremi/main/src/gremlin.gif');
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
