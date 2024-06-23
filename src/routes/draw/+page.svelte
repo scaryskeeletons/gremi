@@ -12,13 +12,13 @@
     Back to Home
 </button>
   <div class="social-links">
-      <a href="https://twitter.com" target="_blank" rel="noopener" class="social-link">
+      <a href="https://x.com/gizmo_onsol" target="_blank" rel="noopener" class="social-link">
           <img src="https://github.com/scaryskeeletons/images/raw/main/twitter.webp" alt="Twitter"/>
       </a>
       <a href="https://dexscreener.com/solana/" target="_blank" rel="noopener" class="social-link">
           <img src="https://github.com/scaryskeeletons/images/raw/main/dexscreener.webp" alt="Dex Screener"/>
       </a>
-      <a href="https://t.me/" target="_blank" rel="noopener" class="social-link">
+      <a href="https://t.me/gizmotg" target="_blank" rel="noopener" class="social-link">
           <img src="https://github.com/scaryskeeletons/images/raw/main/telegram.webp" alt="Telegram"/>
       </a>
   </div>

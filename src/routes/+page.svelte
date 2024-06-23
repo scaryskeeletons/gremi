@@ -225,13 +225,13 @@
   <div class="section" id="links">
       <h1>$GIZMO Links</h1>
       <div class="social-links">
-          <a href="https://twitter.com/" target="_blank" rel="noopener" class="social-link">
+          <a href="https://x.com/gizmo_onsol" target="_blank" rel="noopener" class="social-link">
               <img src="xlogo.webp" alt="Twitter"/>
           </a>
           <a href="https://pump.fun/" target="_blank" rel="noopener" class="social-link">
               <img src="dexscreener.webp" alt="DexScreener"/>
           </a>
-          <a href="https://t.me/" target="_blank" rel="noopener" class="social-link">
+          <a href="https://t.me/gizmotg" target="_blank" rel="noopener" class="social-link">
               <img src="telegramlogo.webp" alt="Telegram"/>
           </a>
       </div>
