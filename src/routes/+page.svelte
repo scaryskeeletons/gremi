@@ -19,7 +19,7 @@
               labels: ['Marketing', 'Supply', 'Dev'],
               datasets: [{
                   label: 'Token Distribution',
-                  data: [5, 95, 5],
+                  data: [2.5, 95, 2.5],
                   backgroundColor: ['#d12150', '#fcba03', '#218ed1'], // Colors for the slices
                   hoverOffset: 4
               }]
