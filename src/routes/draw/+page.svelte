@@ -12,7 +12,7 @@
     Back to Home
 </button>
   <div class="social-links">
-      <a href="https://twitter.com/" target="_blank" rel="noopener" class="social-link">
+      <a href="https://twitter.com" target="_blank" rel="noopener" class="social-link">
           <img src="https://github.com/scaryskeeletons/images/raw/main/twitter.webp" alt="Twitter"/>
       </a>
       <a href="https://dexscreener.com/solana/" target="_blank" rel="noopener" class="social-link">
