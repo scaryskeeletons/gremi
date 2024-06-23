@@ -219,7 +219,7 @@
           <img src="gremlin.png" alt="GIZMO">
       </div>
       <p>Solana's cutest little Gremlin</p>
-      <span>CA: Coming soon</span>
+      <span>CA: C4Y2MfVejaD2WEQB2kL1tpLFw97LZEUdNf3Ag8ospump</span>
   </div>
 
   <div class="section" id="links">
@@ -228,7 +228,7 @@
           <a href="https://x.com/gizmo_onsol" target="_blank" rel="noopener" class="social-link">
               <img src="xlogo.webp" alt="Twitter"/>
           </a>
-          <a href="https://pump.fun/" target="_blank" rel="noopener" class="social-link">
+          <a href="https://pump.fun/C4Y2MfVejaD2WEQB2kL1tpLFw97LZEUdNf3Ag8ospump" target="_blank" rel="noopener" class="social-link">
               <img src="dexscreener.webp" alt="DexScreener"/>
           </a>
           <a href="https://t.me/gizmotg" target="_blank" rel="noopener" class="social-link">
