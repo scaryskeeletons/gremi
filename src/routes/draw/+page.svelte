@@ -15,7 +15,7 @@
       <a href="https://x.com/gizmo_onsol" target="_blank" rel="noopener" class="social-link">
           <img src="https://github.com/scaryskeeletons/images/raw/main/twitter.webp" alt="Twitter"/>
       </a>
-      <a href="https://dexscreener.com/solana/" target="_blank" rel="noopener" class="social-link">
+      <a href="https://dexscreener.com/solana/4uypymxqzeqsz6nhcdxwiqqdguhrbafsjkmwo41knvrc" target="_blank" rel="noopener" class="social-link">
           <img src="https://github.com/scaryskeeletons/images/raw/main/dexscreener.webp" alt="Dex Screener"/>
       </a>
       <a href="https://t.me/gizmotg" target="_blank" rel="noopener" class="social-link">

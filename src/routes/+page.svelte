@@ -219,7 +219,7 @@
           <img src="gremlin.png" alt="GIZMO">
       </div>
       <p>Solana's cutest little Mogwai</p>
-      <span>CA: ComingSoon</span>
+      <span>CA: 4UyPyMxqZEQsz6NhCdxWiQQDGuHRbafSJKmwo41kNVRc</span>
   </div>
 
   <div class="section" id="links">
@@ -228,7 +228,7 @@
           <a href="https://x.com/gizmo_onsol" target="_blank" rel="noopener" class="social-link">
               <img src="xlogo.webp" alt="Twitter"/>
           </a>
-          <a href="https://dexscreener.com" target="_blank" rel="noopener" class="social-link">
+          <a href="https://dexscreener.com/solana/4uypymxqzeqsz6nhcdxwiqqdguhrbafsjkmwo41knvrc" target="_blank" rel="noopener" class="social-link">
               <img src="dexscreener.webp" alt="DexScreener"/>
           </a>
           <a href="https://t.me/gizmotg" target="_blank" rel="noopener" class="social-link">
